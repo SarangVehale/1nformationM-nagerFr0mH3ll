@@ -147,6 +147,11 @@ git commit -m "Initial commit"
    git push -u origin main
    ```
 
+4. Open
+   ```bash
+   xdg-open https://github.com/your-username/your-repo/pull/new/master
+   ```
+
 ---
 
 ## 4. **GitHub Workflow: Clone, Pull, Fetch, Create Repositories**
